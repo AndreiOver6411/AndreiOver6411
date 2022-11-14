@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Andrei_Ladyhin
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning IT OVERONE company
+- 💞️ I’m looking to collaborate on Python-developer
+- 📫 How to reach me ladyhin1964@gmail.com, 6176718@mail.ru
+
+-
 
 <!---
 AndreiOver6411/AndreiOver6411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
